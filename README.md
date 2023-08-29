@@ -1,1 +1,1 @@
-# credit-EDA-vcase-study
+# credit-EDA-case-study
